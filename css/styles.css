@@ -1,9 +1,14 @@
-img
+.mystery
 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  position: absolute;
-  top: 50%;
-  left:50%;
+  text-align: center;
+  height: auto;
+  width: auto;
+  border: 20px double black;
+  padding: 20px;
+  line-height: 5;
+}
+
+.twitch-embed
+{
+
 }
